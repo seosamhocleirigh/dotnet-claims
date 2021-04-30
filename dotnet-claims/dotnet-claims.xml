@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>dotnet-claims</name>
+    </assembly>
+    <members>
+        <member name="T:dotnet_claims.Controllers.WeatherForecastController">
+            <summary>
+            Weather forcast utility
+            </summary>
+            <seealso cref="T:Microsoft.AspNetCore.Mvc.ControllerBase" />
+        </member>
+        <member name="M:dotnet_claims.Controllers.WeatherForecastController.Get">
+            <summary>
+            Gets the weather forecast.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
